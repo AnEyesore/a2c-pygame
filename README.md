@@ -1,3 +1,7 @@
+### TL;DR
+
+[Youtube video walking through the below](https://youtu.be/CjINMAwLuYU)
+
 # Deep Reinforcement Learning using an Advantage Actor-Critic Algorithm in a Simple Python Game
 
 Advantage Actor-Critic is a popular algorithm in reinforcement learning to train a model to perform a task. In it, the role of the agent in a typical reinforcement learning problem is split into two separate networks: the Actor, who takes the actions, and the Critic, who assesses the actions. 
